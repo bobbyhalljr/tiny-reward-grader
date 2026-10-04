@@ -1,0 +1,25 @@
+{
+  "name": "tiny-reward-grader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny RL reward for coding attempts that survives reward hacking, in TypeScript. Mocked attempts, no API key.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Bobby Hall Jr (https://bhjr.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhalljr/tiny-reward-grader.git"
+  },
+  "scripts": {
+    "start": "tsx reward.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
