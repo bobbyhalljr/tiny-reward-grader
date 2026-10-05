@@ -88,7 +88,7 @@ This is a teaching grader.
 
 ## Read more
 
-- Dev.to: [Passing Tests Is a Terrible Reward. Build a Reward Hacking Detector in TypeScript.](DEV_URL)
+- Dev.to: [Passing Tests Is a Terrible Reward. Build a Reward Hacking Detector in TypeScript.](https://dev.to/bobbyhalljr/passing-tests-is-a-terrible-reward-build-a-reward-hacking-detector-in-typescript-2ak3)
 - Substack: [Passing Tests Is a Terrible Reward. Build a Reward Hacking Detector in TypeScript.](SUBSTACK_URL)
 - LinkedIn: [post](LINKEDIN_URL)
 - Sources: [Xiaomi: MiMo-V2.6 release](https://mimo.mi.com/docs/en-US/news/latest/v2-6) (Sep 22, 2026), [The Batch: An Unexpected Open Weights Leader](https://www.deeplearning.ai/the-batch/an-unexpected-open-weights-leader) (Oct 2, 2026), [OpenAI: The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) (Aug 26, 2026)
